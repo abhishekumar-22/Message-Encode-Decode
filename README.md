@@ -4,10 +4,10 @@ A simple python project which shows the encryption and decryption of messages in
 This is my first project in College🏫</br>
 The idea of this project comes from Whatsapp that it shows at the top</br>
 
-<b>
+<q>
   Messages and calls are end-to-end encrypted.</br>
   No one outside of this chat, not even Whatsapp can read or listen to them.
-</b>
+</q>
 
 Preview</br>
 
