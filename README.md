@@ -40,5 +40,5 @@ https://user-images.githubusercontent.com/105805614/169365895-864824d7-f1a0-4179
 
 <h1>Version 1.0.0</h1>
 
-Password is hidden.
+Password is hidden.</br>
 When you type your password, then it is in form of <b>*</b>.
