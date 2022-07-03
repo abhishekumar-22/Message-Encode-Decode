@@ -70,7 +70,7 @@ Entry(main_window,font ='arial 10',textvariable=message,bg='ghost white',width=6
 
 #Key (Password) box
 Label(main_window,font='arial 12 bold',text='KEY',fg='red',bg='black').place(x=243,y=130)
-Entry(main_window,font='arial 10',textvariable=password,bg='ghost white',width=60).place(x=48,y=160)
+Entry(main_window,font='arial 10',textvariable=password,bg='ghost white',width=60,show='*').place(x=48,y=160)
 
 #Mode menu
 menu = StringVar(main_window)
