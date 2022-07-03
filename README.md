@@ -37,3 +37,8 @@ https://user-images.githubusercontent.com/105805614/169365895-864824d7-f1a0-4179
 
 1. message_encode_decode.py
 2. message_icon.ico
+
+Version 1.0.0
+
+Password is hidden.
+When you type your password, then it is in form of <b>*</b>.
